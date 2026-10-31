@@ -1,0 +1,9 @@
+  # Compilados
+  out/
+  *.class
+  fuentes.txt
+
+  # IDE
+  .idea/
+  *.iml
+  .vscode/
