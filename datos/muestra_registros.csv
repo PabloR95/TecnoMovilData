@@ -1,0 +1,23 @@
+idUsuario,ruta,estacion,accion,timestamp
+U0000005,A1,El Bosque,entrada,2026-10-30T06:05:00
+U0000001,T1,Portal Norte,entrada,2026-10-30T06:10:00
+U0000002,T1,Estación Central,entrada,2026-10-30T06:20:00
+U0000005,A1,Portal Norte,salida,2026-10-30T06:20:00
+U0000005,T1,Portal Norte,entrada,2026-10-30T06:22:00
+U0000001,T1,Universidad,salida,2026-10-30T06:30:00
+U0000002,T1,Universidad,salida,2026-10-30T06:32:00
+U0000005,T1,Estación Central,salida,2026-10-30T06:37:00
+U0000004,T1,Portal Norte,entrada,2026-10-30T06:40:00
+U0000004,T1,Estación Central,salida,2026-10-30T06:55:00
+U0000003,T2,Portal Oriente,entrada,2026-10-30T07:00:00
+U0000003,T2,Estación Central,salida,2026-10-30T07:15:00
+U0000003,E1,Estación Central,entrada,2026-10-30T07:20:00
+U0000003,E1,Aeropuerto,salida,2026-10-30T07:35:00
+U0000004,C3,Estación Central,entrada,2026-10-30T12:00:00
+U0000004,C3,Plaza Mayor,salida,2026-10-30T12:10:00
+U0000001,T1,Universidad,entrada,2026-10-30T17:05:00
+U0000002,T1,Hospital,entrada,2026-10-30T17:10:00
+U0000002,T1,Estación Central,salida,2026-10-30T17:22:00
+U0000001,T1,Portal Norte,salida,2026-10-30T17:25:00
+U0000004,T2,Plaza Mayor,entrada,2026-10-30T17:40:00
+U0000004,T2,Portal Oriente,salida,2026-10-30T18:00:00
